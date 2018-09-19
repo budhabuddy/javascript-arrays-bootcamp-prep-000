@@ -1,7 +1,7 @@
 var chocolateBars = ["snickers","hundred grand","kitkat","skittles"];
 
  
-var addElementToTheBeginingOfArray = [1];
+var addElementToBeginingOfArray = [1];
 ["foo", ...addElementToTheBeginingOfArray];
 
 
